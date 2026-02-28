@@ -727,7 +727,7 @@ export default function App() {
                 </div>
                 <div style={{ textAlign: "center" }}>
                   <button style={{ fontFamily: SN, padding: "16px 36px", background: C.green, color: C.white, border: "none", borderRadius: 8, fontSize: 15, fontWeight: 600, cursor: "pointer" }}>Partner With Us</button>
-                  <p style={{ fontFamily: SN, fontSize: 13, color: C.txtLt, marginTop: 12 }}>Brandi McCurdy, MSN, APRN, ACNP-BC</p>
+                  <p style={{ fontFamily: SN, fontSize: 13, color: C.txtLt, marginTop: 12 }}>Brandi Mac, MSN, APRN, ACNP-BC</p>
                 </div>
               </div>
             </div>
@@ -757,7 +757,7 @@ export default function App() {
             <span key={s} style={{ fontFamily: SN, fontSize: 13, color: C.greenLt, cursor: "pointer" }}>{s}</span>
           ))}
         </div>
-        <p style={{ fontFamily: SN, fontSize: 12, color: C.greenMist }}>© 2025 Brandi McCurdy. All rights reserved.</p>
+        <p style={{ fontFamily: SN, fontSize: 12, color: C.greenMist }}>© 2025 Brandi Mac. All rights reserved.</p>
       </footer>
     </div>
   );
